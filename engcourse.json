@@ -1,0 +1,262 @@
+{
+  "Nouns": [
+    {
+      "title": "What is noun?",
+      "sections": [
+        {
+          "header": "1. Noun",
+          "img": "https://th.bing.com/th/id/OIG.r9uKRo3ZfAkiVHsfQ3T_?pid\u003dImgGn\u0026PC\u003dEMMX01",
+          "imgTitle": "What is **noun**",
+          "explanations": [
+            {
+              "explain": "***Noun***(နာမ်) ဆိုတာ **လူ၊တိရိစ္ဆာန်** နာမည်တွေ **နေရာ၊အရာဝထ္တု** စတဲ့ **သက်ရှိသက်မဲ့၊ဒြပ်ရှိဒြပ်မဲ့**တွေရဲ့ **နာမည်**တွေကို***Noun***(နာမ်)လို့ သတ်မှတ်တယ်။",
+              "example": "a phone a dog a town a melon an orange an egg a beach"
+            },
+            {
+              "explain": "ကမ္ဘာပေါ်မှာ ရှိသမျှအရာအားလုံးရဲ့ အမည်တွေကို ***Noun***လို့ ခေါ်တယ်။(**a person, an animal, a place**)    \n ဥပမာပြရရင်    \n * **Person:** teacher, doctor, Mary, John    \n *  **Animal:** cat, dog, lion, elephant      \n *  **Place:** book, pen, table, phone\n***Noun*** တွေကို ဒီလိုလည်း ခွဲလို့ရသေးတယ်။    \n1. **Common nouns :** လူ၊နေရာ၊ အရာဝထ္တုများရဲ့ တစ်ခု၊တစ်ယောက်ထဲ မဟုတ်ပဲ အများနဲ့ဆိုင်တဲ့နာမ်များ(e.g. **car, city, flower**)\n2. **Proper nouns** တစ်ခု တစ်ယောက်စီအတွက် ပေးထားတဲ့နာမည်များ။(e.g. **John, London, Rose** )သူတို့ကို အမြဲတမ်း ရှေ့ဆုံးက အကြီး နဲ့ စပေးရတယ်။\n3. **Collective nouns** အုပ်စု ဒါမှမဟုတ် အရာဝထ္တုတွေ တစ်စုထဲ စုစည်းထားတဲ့ နာမ်မည်များ(e.g. **team, family, herd**)\n4. **Abstract nouns** အပြင်မှာ ရှိနေသော်လည်း ထိတွေ့၍မရ၊ရုပ်ဝထ္တုအဖြစ်  မရှိသော စိတ်ကူး idea, စိတ်ခံစားမှုကဲ့သို့ နာမ်များ(e.g. **love, freedom, happiness**)",
+              "example": "Nounကို အခြား စကားလုံးတွေ ပေါင်းထည့်ပြီး ပိုပြည့်စုံအောင် လုပ်လို့ရသေးတယ်။ အဲ့တာကို **Noun phrase** လို့ခေါ်တယ်။For example:    \n* A noun : car\n* A noun phrase: a red car"
+            }
+          ],
+          "test": [
+            {
+              "type": "choosing",
+              "question": "A _______ of bees flew by.",
+              "c1": "flying",
+              "c2": "swarm",
+              "correctAns": "c2",
+              "id": 1,
+              "h_question": "Identify the collective noun"
+            },
+            {
+              "type": "whichIsCr",
+              "question": "What is a noun?Is it",
+              "c1": "A word that names a person, place, thing, or idea",
+              "c2": " A word that shows an action or a state of being ",
+              "c3": "A word that describes a noun",
+              "correctAns": "c1",
+              "id": 2
+            },
+            {
+              "type": "whichIsCr",
+              "question": "What is the difference between common and proper nouns?",
+              "c1": "A word that names a person, place, thing, or idea",
+              "c2": " Common nouns name any person, place, thing, or idea; proper nouns name a specific person, place, thing, or idea ",
+              "c3": "Common nouns always begin with a capital letter; proper nouns do not",
+              "correctAns": "c1",
+              "id": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Singular and Plural Nouns",
+      "sections": [
+        {
+          "header": "1. Singular Noun",
+          "img": "https://th.bing.com/th/id/OIG.SzbTwT3_KlZ75qCkdmD1?pid\u003dImgGn\u0026PC\u003dEMMX01",
+          "imgTitle": "**A** Dog",
+          "explanations": [
+            {
+              "explain": "***Singular noun*** ဆိုတာ လူတစ်ယောက်၊‌နေရာ တစ်နေရာ၊အရာထ္တု တစ်ခု၊ စိတ်ကူး အတွေးအခေါ်တစ်ခုချင်းဆီကို အမည်ပေးထားတဲ့\n**တစ်ခုထက် မပိုတဲ့** noun‌တွေ ဖြစ်တယ်။    \nဥပမာ- **cat** ကလည်း Singular nounပဲ  တိရိစ္ဆာန် ထဲက တစ်မျိုးရဲ့ အမည်ဖြစ်လို့။    \n\n**Singular noun** ကို မတူညီတဲ့ ပုံစံအမျိုးမျိုးနဲ့ sentence တွေမှာ သုံးလို့ရတယ်။ဘာတွေလဲဆို-    \n* **Singular noun**က sentence တစ်ခုရဲ့ subject ဖြစ်နိုင်တယ်။ ဆိုလိုတာက အဲ့တာ လူလည်း ဖြစ်နိုင်တယ် ဒါမှမဟုတ် တစ်ခုခုကို လုပ်ဆောင်နိုင်စွမ်းရှိတဲ့၊ ဖော်ပြလို့ ရနိုင်တဲ့ အရာတွေ ကိုပြောတာ။ ဥပမာ-    ",
+              "example": "* **The cat** is sleeping on the sofa. \n* **My friend** likes to read books.   \n     "
+            },
+            {
+              "explain": "* **Singular Noun** ကVerb တစ်ခုရဲ့ object အဖြစ်လည်း ဖြစ်လို့ရတယ်။ဆိုလိုတာက အပြုလုပ်ခံရတဲ့ လူ၊တိရိစ္ဆာန်၊ အရာဝတ္တု တွေ။ဥပမာ-    ",
+              "example": "   -  I saw **a movie** yesterday.\n   -  She loves **her dog** very much.    "
+            },
+            {
+              "explain": "* **Singular Noun** က Preposition ရဲ့နောက်ကလိုက်တဲ့ object အဖြစ်လည်း ဖြစ်လို့ ရ‌သေးတယ်။ဥပမာ-    ",
+              "example": "1. She walked **to the park**.(ဒီစာကြောင်းမှာဆိုရင် **to** က *preposition* ၊ **the park** က Prepositionရဲ့*Object*.)\n2. The cat is **on the table**.(ဒီစာကြောင်းမှာဆိုရင် **on** က *preposition* ၊ **the table** က Prepositionရဲ့*Object*)    "
+            }
+          ],
+          "test": [
+            {
+              "type": "choosing",
+              "question": "A singular noun names one person, place, thing, or idea.",
+              "c1": "True",
+              "c2": "False",
+              "correctAns": "c1",
+              "id": 1,
+              "h_question": "True or False"
+            },
+            {
+              "type": "choosing",
+              "question": "The _______ are flying in the sky.",
+              "c1": "bird",
+              "c2": "birds",
+              "correctAns": "c2",
+              "id": 2,
+              "h_question": "Fill in the blank"
+            },
+            {
+              "type": "choosing",
+              "c1": "flower",
+              "c2": "flowers",
+              "correctAns": "c2",
+              "id": 3,
+              "h_question": "Fill in the blank",
+              "question": "She has a beautiful _______ in her garden."
+            },
+            {
+              "type": "whichIsCr",
+              "question": "What is the singular form of women? ",
+              "c1": "A. woman",
+              "c2": "B. womans",
+              "c3": "C. wemen",
+              "correctAns": "c1",
+              "id": 4
+            }
+          ]
+        },
+        {
+          "header": "2. Plural Noun",
+          "img": "https://th.bing.com/th/id/OIG.pNmoBdJXI8BCcHFl04mQ?pid\u003dImgGn\u0026PC\u003dEMMX01",
+          "imgTitle": "Dog**s**",
+          "explanations": [
+            {
+              "explain": "• A noun is a person, an animal, a place or a thing:",
+              "example": "a dog a town a phone a melon an orange an egg a beach"
+            },
+            {
+              "explain": "• A noun is a person, an animal, a place or a thing:",
+              "example": "a dog a town a phone a melon an orange an egg a beach"
+            }
+          ],
+          "test": [
+            {
+              "type": "choosing",
+              "question": "Write your address _____ your name.",
+              "c1": "opposite",
+              "c2": "between",
+              "correctAns": "c1",
+              "id": 6
+            },
+            {
+              "type": "whichIsCr",
+              "question": "What is a noun?",
+              "c1": "A word that names a person, place, thing, or idea",
+              "c2": " A word that shows an action or a state of being ",
+              "c3": "A word that describes a noun",
+              "correctAns": "c1",
+              "id": 7
+            },
+            {
+              "type": "whichIsCr",
+              "question": "What is the difference between common and proper nouns?",
+              "c1": "A word that names a person, place, thing, or idea",
+              "c2": " Common nouns name any person, place, thing, or idea; proper nouns name a specific person, place, thing, or idea ",
+              "c3": "Common nouns always begin with a capital letter; proper nouns do not",
+              "correctAns": "c1",
+              "id": 8
+            },
+            {
+              "type": "choosing",
+              "question": "Write your address _____ your name.",
+              "c1": "opposite",
+              "c2": "between",
+              "correctAns": "c1",
+              "id": 9
+            },
+            {
+              "type": "choosing",
+              "question": "Write your address _____ your name.",
+              "c1": "opposite",
+              "c2": "between",
+              "correctAns": "c1",
+              "id": 10
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Countable and Uncountable nouns(2)"
+    },
+    {
+      "title": "Articles (a,an)"
+    },
+    {
+      "title": "Articles (the, a,an)"
+    },
+    {
+      "title": "Uses of the and a/an"
+    },
+    {
+      "title": "some and any"
+    },
+    {
+      "title": "much, many, a lot of"
+    },
+    {
+      "title": "a little, a few, too much, too many, not enough"
+    },
+    {
+      "title": "all, most, some, no/none, both"
+    }
+  ],
+  "Pronouns and possessives": [
+    {
+      "title": "Subject and object pronouns"
+    },
+    {
+      "title": "Possessive forms of nouns"
+    }
+  ],
+  "Pronouns ": [
+    {
+      "title": "Subject and object pronouns"
+    },
+    {
+      "title": "Possessive forms of nouns"
+    }
+  ],
+  "Pronouns aossessives": [
+    {
+      "title": "Subject and object pronouns"
+    },
+    {
+      "title": "Possessive forms of nouns"
+    }
+  ],
+  "Pronounsd possessives": [
+    {
+      "title": "Subject and object pronouns"
+    },
+    {
+      "title": "Possessive forms of nouns"
+    }
+  ],
+  "Prouns and possessives": [
+    {
+      "title": "Subject and object pronouns"
+    },
+    {
+      "title": "Possessive forms of nouns"
+    }
+  ],
+  "Pronouns assives": [
+    {
+      "title": "Subject and object pronouns"
+    },
+    {
+      "title": "Possessive forms of nouns"
+    }
+  ],
+  "Pronouns and pssives": [
+    {
+      "title": "Subject and object pronouns"
+    },
+    {
+      "title": "Possessive forms of nouns"
+    }
+  ],
+  "Pronouns and possives": [
+    {
+      "title": "Subject and object pronouns"
+    },
+    {
+      "title": "Possessive forms of nouns"
+    }
+  ]
+}
